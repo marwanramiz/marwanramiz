@@ -23,8 +23,8 @@
 
 ## 📊 GitHub Stats
 
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanramiz&theme=radical)
 
 ---
@@ -49,6 +49,4 @@
 
 ## 📫 Connect
 
-![GitHub followers](https://img.shields.io/github/followers/marwanramiz?style=social)
-![GitHub stars](https://img.shields.io/github/stars/marwanramiz?style=social)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Ramiz%20M-blue?logo=linkedin)](https://www.linkedin.com/in/marwan-ramiz-m-8584a9326)
