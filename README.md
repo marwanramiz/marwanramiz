@@ -26,7 +26,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwanramiz&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60)
 
 ---
 
