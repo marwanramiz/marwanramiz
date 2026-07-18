@@ -6,7 +6,7 @@
 ☁️ **Cloud Learner** — AWS | Azure | GCP  
 🔐 **Cybersecurity Enthusiast** — DVWA, WebGoat  
 🏆 **Creative Problem Solver & Competitive Coder** — Skilled in algorithmic thinking, innovative solutions, and building efficient systems.
-🎨 **UI/UX Designer** — Crafting intuitive, user‑friendly interfaces with a focus on responsive design and creative digital experiences.
+✨ **UI/UX Designer** — Crafting intuitive, user‑friendly interfaces with a focus on responsive design and creative digital experiences.
 
 ---
 
