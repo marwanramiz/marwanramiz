@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Marwan 👋
+# 🪐 Hi, I'm Marwan 👋
 
 🎓 **BTech IT student @ SKCET (2024–28)**  
 💻 **Backend Developer** — Spring Boot, MongoDB, PHP, Python  
