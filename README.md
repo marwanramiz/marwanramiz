@@ -49,8 +49,6 @@
 
 ## 📫 Connect
 
-## 📫 Connect
-
 [![GitHub](https://img.shields.io/badge/GitHub-marwanramiz-black?logo=github)](https://github.com/marwanramiz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Ramiz%20M-blue?logo=linkedin)](https://www.linkedin.com/in/marwan-ramiz-m-8584a9326)
 [![Instagram](https://img.shields.io/badge/Instagram-marwaaaannn._07-pink?logo=instagram)](https://www.instagram.com/marwaaaannn._07)
