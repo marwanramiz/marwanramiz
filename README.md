@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical&cache_seconds=60)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marwanramiz&theme=radical&cache_seconds=60)
 
 ---
@@ -36,6 +36,7 @@
 - 🏛️ [City-Municipal-Office](https://github.com/marwanramiz/City-Municipal-Office) – Java project for municipal tracking  
 - 🌐 [Portfolio](https://github.com/marwanramiz/Portfolio) – Personal portfolio website  
 - 💧 [Client_1](https://github.com/marwanramiz/client_1) – Custom website for 4S Aqua Care  
+- 🔐 [Secure Notes API](https://github.com/marwanramiz/secure-notes-api) – Spring Boot backend with JWT authentication & MongoDB for secure notes management  
 
 ---
 
@@ -50,8 +51,6 @@
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-marwanramiz-black?logo=github)](https://github.com/marwanramiz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Ramiz%20M-blue?logo=linkedin)](https://www.linkedin.com/in/marwan-ramiz-m-8584a9326)
-[![Instagram](https://img.shields.io/badge/Instagram-marwaaaannn._07-pink?logo=instagram)](https://www.instagram.com/marwaaaannn._07)
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-marwanramiz-black?logo=github)](https://github.com/marwanramiz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Ramiz%20M-blue?logo=linkedin)](https://www.linkedin.com/in/marwan-ramiz-m-8584a9326)  
+[![Instagram](https://img.shields.io/badge/Instagram-marwaaaannn._07-pink?logo=instagram)](https://www.instagram.com/marwaaaannn._07)  
