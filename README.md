@@ -23,9 +23,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=marwanramiz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=marwanramiz&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=marwanramiz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=marwanramiz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=marwanramiz&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marwanramiz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
