@@ -22,11 +22,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=marwanramiz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=60)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwanramiz&layout=compact&theme=radical&cache_seconds=60)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=marwanramiz&theme=radical&cache_seconds=60)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=marwanramiz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=marwanramiz&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marwanramiz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
