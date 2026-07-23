@@ -32,18 +32,18 @@
 ## 🚀 Featured Projects
 
 - 💰 [Expense Tracker](https://harmonious-cobbler-9ceb5c.netlify.app) – Full‑stack web + mobile application  
-  ![Netlify](https://img.shields.io/badge/Frontend-Netlify-blue?logo=netlify)
-  ![Render](https://img.shields.io/badge/Backend-Render-green?logo=render)
-  ![Expo](https://img.shields.io/badge/Mobile-Expo-lightgrey?logo=expo)
-
   - 🌐 **Frontend (React.js)** deployed on [Netlify](https://harmonious-cobbler-9ceb5c.netlify.app)  
   - ⚙️ **Backend (Spring Boot + MongoDB)** deployed on [Render](https://expense-tracker-7xlg.onrender.com)  
   - 📱 **Mobile App (Expo React Native)** for Android/iOS
     
-- 🗂️ [Task Manager](https://github.com/marwanramiz/task-manager) – Spring Boot CRUD API  
-- 🏛️ [City-Municipal-Office](https://github.com/marwanramiz/City-Municipal-Office) – Java project for municipal tracking  
-- 🌐 [Portfolio](https://github.com/marwanramiz/Portfolio) – Personal portfolio website  
-- 💧 [Client_1](https://github.com/marwanramiz/client_1) – Custom website for 4S Aqua Care  
+- 🗂️ [Task Manager](https://github.com/marwanramiz/task-manager) – Spring Boot CRUD API
+  
+- 🏛️ [City-Municipal-Office](https://github.com/marwanramiz/City-Municipal-Office) – Java project for municipal tracking
+  
+- 🌐 [Portfolio](https://github.com/marwanramiz/Portfolio) – Personal portfolio website
+  
+- 💧 [Client_1](https://github.com/marwanramiz/client_1) – Custom website for 4S Aqua Care
+  
 - 🔐 [Secure Notes API](https://github.com/marwanramiz/secure-notes-api) – Spring Boot backend with JWT authentication & MongoDB for secure notes management  
 
 ---
