@@ -1,13 +1,13 @@
 # 🪐 Hi, I'm Marwan 👋
 
-🎓 **BTech IT student @ SKCET (2024–28)**
-💻 **Backend Developer** — Spring Boot, MongoDB, PHP, Python
-⚡ **Frontend Explorer** — React.js, UI/UX design
-📱 **Mobile Developer** — React Native (Expo), TypeScript
-☁️ **Cloud Learner** — AWS | Azure | GCP
-🔐 **Cybersecurity Enthusiast** — DVWA, WebGoat
-🏆 **Creative Problem Solver & Competitive Coder** — Skilled in algorithmic thinking, innovative solutions, and building efficient systems.
-✨ **UI/UX Designer** — Crafting intuitive, user‑friendly interfaces with a focus on responsive design and creative digital experiences.
+🎓 **BTech IT student @ SKCET (2024–28)**  
+💻 **Backend Developer** — Spring Boot, MongoDB, PHP, Python  
+⚡ **Frontend Explorer** — React.js, UI/UX design  
+📱 **Mobile Developer** — React Native (Expo), TypeScript  
+☁️ **Cloud Learner** — AWS | Azure | GCP  
+🔐 **Cybersecurity Enthusiast** — DVWA, WebGoat  
+🏆 **Creative Problem Solver & Competitive Coder** — Skilled in algorithmic thinking, innovative solutions, and building efficient systems  
+✨ **UI/UX Designer** — Crafting intuitive, user‑friendly interfaces with a focus on responsive design and creative digital experiences  
 
 ---
 
